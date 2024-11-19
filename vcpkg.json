@@ -1,0 +1,8 @@
+{
+    "name": "yen",
+    "version": "1.0.0",
+    "description": "Implementation of Yen's KSP algorithm",
+    "license": "MIT",
+    "homepage": "https://github.com/zudwalex/yen",
+    "dependencies": []
+}
