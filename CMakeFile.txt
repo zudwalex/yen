@@ -9,4 +9,3 @@ add_library(yen STATIC
 )
 
 target_include_directories(yen PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
-
